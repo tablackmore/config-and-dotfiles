@@ -15,7 +15,7 @@ https://www.iterm2.com/
 
 5) Open preferences in iterm2 and profile -> text change non-ascii font to 12pt Meslo LG S Regular for Powerline (Font installed at step 2)
 
-6) Replace ~/.zshrc ~/.zpreztorc and ~/.gitignore with the one in this directory.
+6) Replace ~/.zshrc ~/.zpreztorc ~/.gitignore ~/.gemrc (make sure you backup first) with the one in this directory.
 
 7) Install nodejs
 
