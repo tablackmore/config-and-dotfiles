@@ -20,7 +20,7 @@ https://www.iterm2.com/
 7) Install nodejs
 
 8) Setup node to install globals without -g
-```
-curl https://raw.githubusercontent.com/glenpike/npm-g_nosudo/master/npm-g-nosudo.sh | sh´´´
+``
+curl https://raw.githubusercontent.com/glenpike/npm-g_nosudo/master/npm-g-nosudo.sh | sh```
 
 9) Goto github login under profile ssh keys, generate and add the ssh key for my new machine. Follow the guide on that page.
