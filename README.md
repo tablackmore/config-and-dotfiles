@@ -1,5 +1,5 @@
 # config-and-dotfiles
-My computer config for terminal git and node on new machine
+This is how I config a new mac for the basic terminal, git and node.
 
 1) Switch to zsh and install prezto following this guide:
 
@@ -15,5 +15,11 @@ https://www.iterm2.com/
 
 5) Open preferences in iterm2 and profile -> text change non-ascii font to 12pt Meslo LG S Regular for Powerline (Font installed at step 2)
 
-6) Setup node to install globals without -g
+6) Replace ~/.zshrc ~/.zpreztorc and ~/.gitignore with the one in this directory.
+
+7) Install nodejs
+
+8) Setup node to install globals without -g
 curl https://raw.githubusercontent.com/glenpike/npm-g_nosudo/master/npm-g-nosudo.sh | sh
+
+9) Goto github login under profile ssh keys, generate and add the ssh key for my new machine. Follow the guide on that page.
